@@ -246,8 +246,8 @@ span {
 
 .box-1,
 .box-2 {
-  width: fit-content;
-  border: 1px solid black;
+  width: 660ppx;
+  border: 2px solid black;
 }
 
 .inbox-1 {
@@ -255,7 +255,7 @@ span {
   margin: 5px;
   background-color: rgb(218, 224, 250);
   width: 200px;
-  height: 140px;
+  height: 180px;
   box-sizing: border-box;
 }
 
@@ -264,7 +264,7 @@ span {
   margin: 5px;
   background-color: rgb(218, 224, 250);
   width: 200px;
-  height: 140px;
-  border: 1px solid black;
+  height: 180px;
+  border: 2px solid black;
   box-sizing: border-box;
 }
